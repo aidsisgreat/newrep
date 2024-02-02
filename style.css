@@ -1,0 +1,12 @@
+/* Name:Adithyan.Jyothish.Nair student number:8981148*/
+body
+{
+    font: 16px/1.5 arial, sans-serif;
+    background-color: hsla(200, 50%, 70%, 0.8);
+    height: 100vh;
+    width: 100vw;
+}
+h2{
+    color:red;
+    font-size: 1.5em;    
+}
